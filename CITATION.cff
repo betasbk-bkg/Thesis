@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the archived Zenodo record."
+title: "Speed Over Strategy: Why Agent Velocity Dominates Aggregation Method in Crowd-Sourced Continuous Control"
+type: software
+version: "1.1.0"
+date-released: "2026-08-19"
+authors:
+  - family-names: "Song"
+    given-names: "BongKeun"
+doi: "10.5281/zenodo.22009351"
+url: "https://github.com/betasbk-bkg/Thesis"
+repository-code: "https://github.com/betasbk-bkg/Thesis"
+license: "MIT"
+keywords:
+  - crowd-sourced control
+  - multi-operator single-robot systems
+  - vote aggregation
+  - continuous control
+  - simulation
