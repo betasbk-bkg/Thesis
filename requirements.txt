@@ -1,5 +1,0 @@
-numpy>=1.21.0
-scipy>=1.7.0
-matplotlib>=3.5.0
-
-# tested with: numpy 2.3.5, scipy 1.16.3, matplotlib 3.10.8 (python 3.12)
